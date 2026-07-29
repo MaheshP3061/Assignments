@@ -1,0 +1,10 @@
+var a="Bharath";
+console.log(a);
+a=120;
+console.log(a);
+let b=300;
+let c=400;
+console.log(b);
+console.log(c);
+const h="YHU";
+console.log(h);
