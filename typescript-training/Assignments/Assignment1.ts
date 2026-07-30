@@ -61,5 +61,5 @@ console.log(`Person's eye color: ${personsEyeColor}`);
 let personsBirthplace:string ="New York City";
 console.log(`Person's birthplace: ${personsBirthplace}`);
 //20. Distance between two cities: 200.5
-let distane:number = 200.5;
-console.log(`Distance between two cities: ${distane}`);
+let distance:number = 200.5;
+console.log(`Distance between two cities: ${distance}`);
