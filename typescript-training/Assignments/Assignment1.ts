@@ -2,6 +2,8 @@
 let temperature: number=25.5;
 console.log(`Temperature of a city in degrees Celsius:${temperature}`);
 //Whether a customer has placed an order: true or false
+let placedOrder:boolean =true;
+console.log(`Customer placed order: ${placedOrder}`);
 //Person's phone number: "123-456-7890"
 let phoneNumber:string = "123-456-7890";
 console.log(`Person's phone number: ${phoneNumber}`);
